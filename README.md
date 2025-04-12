@@ -28,6 +28,8 @@ Express
 TypeScript
 
 MongoDB
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/563d551d-2468-4c73-ad14-0cbde6f5d61a" />
+
 
 Mongoose
 
